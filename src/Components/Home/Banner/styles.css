@@ -1,0 +1,18 @@
+.banner-content-right{
+    text-align: justify;
+    
+}
+.banner-content-left{
+    text-align: left;
+    
+}
+.banner-button{
+    width: fit-content;
+    text-decoration: none;
+}
+#non-student-cta-wrapper-left{
+    padding-left: 275px;
+}
+.collab-company{
+    background-color: rgb(236, 232, 232);
+}
